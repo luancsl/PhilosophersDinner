@@ -1,1 +1,1 @@
-# pjSO
+# Philosophers' Dinner
